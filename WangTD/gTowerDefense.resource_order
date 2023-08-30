@@ -18,6 +18,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"oPlus","order":1,"path":"objects/oPlus/oPlus.yy",},
+    {"name":"oPathCornerUI","order":5,"path":"objects/oPathCornerUI/oPathCornerUI.yy",},
+    {"name":"oPathStraightUI","order":6,"path":"objects/oPathStraightUI/oPathStraightUI.yy",},
     {"name":"oPathCorner","order":4,"path":"objects/oPathCorner/oPathCorner.yy",},
     {"name":"oPathStraight","order":3,"path":"objects/oPathStraight/oPathStraight.yy",},
     {"name":"sPathCorner","order":4,"path":"sprites/sPathCorner/sPathCorner.yy",},

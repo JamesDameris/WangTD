@@ -18,3 +18,10 @@ if (place_empty(x + 0, y - 128))
 }
 
 instance_destroy();
+
+
+// instance_create_layer(x, y, "Instances", oPathCornerUI);
+
+// instance_create_layer(x + 96, y, "Instances", oPathStraightUI);
+
+// instance_destroy();

@@ -36,6 +36,8 @@
   "resources": [
     {"id":{"name":"oPlus","path":"objects/oPlus/oPlus.yy",},},
     {"id":{"name":"oCastle","path":"objects/oCastle/oCastle.yy",},},
+    {"id":{"name":"oPathCornerUI","path":"objects/oPathCornerUI/oPathCornerUI.yy",},},
+    {"id":{"name":"oPathStraightUI","path":"objects/oPathStraightUI/oPathStraightUI.yy",},},
     {"id":{"name":"sGrassTile","path":"sprites/sGrassTile/sGrassTile.yy",},},
     {"id":{"name":"oPathCorner","path":"objects/oPathCorner/oPathCorner.yy",},},
     {"id":{"name":"oPathStraight","path":"objects/oPathStraight/oPathStraight.yy",},},
