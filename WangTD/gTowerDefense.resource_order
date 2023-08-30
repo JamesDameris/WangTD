@@ -18,7 +18,11 @@
   ],
   "ResourceOrderSettings": [
     {"name":"oPlus","order":1,"path":"objects/oPlus/oPlus.yy",},
+    {"name":"oPathCorner","order":4,"path":"objects/oPathCorner/oPathCorner.yy",},
+    {"name":"oPathStraight","order":3,"path":"objects/oPathStraight/oPathStraight.yy",},
+    {"name":"sPathCorner","order":4,"path":"sprites/sPathCorner/sPathCorner.yy",},
     {"name":"sPlusTile","order":2,"path":"sprites/sPlusTile/sPlusTile.yy",},
+    {"name":"sPathStraight","order":3,"path":"sprites/sPathStraight/sPathStraight.yy",},
     {"name":"oGrass","order":2,"path":"objects/oGrass/oGrass.yy",},
     {"name":"sCastleTile","order":1,"path":"sprites/sCastleTile/sCastleTile.yy",},
   ],
