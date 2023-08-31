@@ -44,10 +44,12 @@
     {"id":{"name":"sPathCorner","path":"sprites/sPathCorner/sPathCorner.yy",},},
     {"id":{"name":"sMenu","path":"sprites/sMenu/sMenu.yy",},},
     {"id":{"name":"sPlusTile","path":"sprites/sPlusTile/sPlusTile.yy",},},
+    {"id":{"name":"sSlime","path":"sprites/sSlime/sSlime.yy",},},
     {"id":{"name":"sPathStraight","path":"sprites/sPathStraight/sPathStraight.yy",},},
     {"id":{"name":"oGrass","path":"objects/oGrass/oGrass.yy",},},
     {"id":{"name":"sCastleTile","path":"sprites/sCastleTile/sCastleTile.yy",},},
     {"id":{"name":"sMainFont","path":"sprites/sMainFont/sMainFont.yy",},},
+    {"id":{"name":"oSlime","path":"objects/oSlime/oSlime.yy",},},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
   ],
   "RoomOrderNodes": [
