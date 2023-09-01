@@ -37,6 +37,7 @@
   "resources": [
     {"id":{"name":"oPlus","path":"objects/oPlus/oPlus.yy",},},
     {"id":{"name":"oCastle","path":"objects/oCastle/oCastle.yy",},},
+    {"id":{"name":"oCameraTarget","path":"objects/oCameraTarget/oCameraTarget.yy",},},
     {"id":{"name":"sGrassTile","path":"sprites/sGrassTile/sGrassTile.yy",},},
     {"id":{"name":"oPathCorner","path":"objects/oPathCorner/oPathCorner.yy",},},
     {"id":{"name":"oPathStraight","path":"objects/oPathStraight/oPathStraight.yy",},},

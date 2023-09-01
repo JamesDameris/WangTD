@@ -19,6 +19,7 @@
   ],
   "ResourceOrderSettings": [
     {"name":"oPlus","order":1,"path":"objects/oPlus/oPlus.yy",},
+    {"name":"oCameraTarget","order":8,"path":"objects/oCameraTarget/oCameraTarget.yy",},
     {"name":"oPathCorner","order":4,"path":"objects/oPathCorner/oPathCorner.yy",},
     {"name":"oPathStraight","order":3,"path":"objects/oPathStraight/oPathStraight.yy",},
     {"name":"oTitleMenu","order":1,"path":"objects/oTitleMenu/oTitleMenu.yy",},
