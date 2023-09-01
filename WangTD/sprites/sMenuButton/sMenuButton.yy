@@ -1,10 +1,10 @@
 {
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
-  "name": "sMenu",
-  "bbox_bottom": 47,
+  "name": "sMenuButton",
+  "bbox_bottom": 127,
   "bbox_left": 0,
-  "bbox_right": 47,
+  "bbox_right": 127,
   "bbox_top": 0,
   "bboxMode": 0,
   "collisionKind": 1,
@@ -13,44 +13,19 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"9dfdd5ce-3935-4f1c-a5aa-d54b7d31c678",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"04a396ed-f7ff-4641-992a-3bd7cd10327e",},
   ],
   "gridX": 0,
   "gridY": 0,
-  "height": 48,
+  "height": 128,
   "HTile": false,
   "layers": [
-    {"resourceType":"GMImageFolderLayer","resourceVersion":"1.0","name":"c85639fb-ad6b-4a8d-a4c6-465b4eb9c8bf","blendMode":0,"displayName":"Layer Group 1","isLocked":false,"layers":[
-        {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"83310cd1-70a8-4830-bedc-0ddd80c5b5c1","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
-      ],"opacity":100.0,"visible":true,},
-    {"resourceType":"GMImageFolderLayer","resourceVersion":"1.0","name":"770a8261-1e77-4758-adbe-7d4ce1340ff5","blendMode":0,"displayName":"Layer Group 2","isLocked":false,"layers":[
-        {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"b03e453a-6426-4b8c-b5ce-7dc3f50c2ef9","blendMode":0,"displayName":"Layer 1","isLocked":false,"opacity":100.0,"visible":true,},
+    {"resourceType":"GMImageFolderLayer","resourceVersion":"1.0","name":"fba22729-ffbd-47c9-914c-094b3d0d2b47","blendMode":0,"displayName":"Layer Group 1","isLocked":false,"layers":[
+        {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"629ce192-48f9-4288-98f7-8320997537e1","blendMode":0,"displayName":"Layer 1","isLocked":false,"opacity":100.0,"visible":true,},
+        {"resourceType":"GMImageLayer","resourceVersion":"1.0","name":"9748fd3a-bf43-476e-9bd1-327b6c9c5b41","blendMode":0,"displayName":"default","isLocked":false,"opacity":100.0,"visible":true,},
       ],"opacity":100.0,"visible":true,},
   ],
-  "nineSlice": {
-    "resourceType": "GMNineSliceData",
-    "resourceVersion": "1.0",
-    "bottom": 8,
-    "enabled": true,
-    "guideColour": [
-      4294902015,
-      4294902015,
-      4294902015,
-      4294902015,
-    ],
-    "highlightColour": 1728023040,
-    "highlightStyle": 0,
-    "left": 7,
-    "right": 8,
-    "tileMode": [
-      0,
-      0,
-      0,
-      0,
-      0,
-    ],
-    "top": 7,
-  },
+  "nineSlice": null,
   "origin": 0,
   "parent": {
     "name": "Menu System",
@@ -60,7 +35,7 @@
   "sequence": {
     "resourceType": "GMSequence",
     "resourceVersion": "1.4",
-    "name": "sMenu",
+    "name": "sMenuButton",
     "autoRecord": true,
     "backdropHeight": 768,
     "backdropImageOpacity": 0.5,
@@ -75,14 +50,14 @@
     "lockOrigin": false,
     "moments": {"resourceType":"KeyframeStore<MomentsEventKeyframe>","resourceVersion":"1.0","Keyframes":[],},
     "playback": 1,
-    "playbackSpeed": 4.0,
+    "playbackSpeed": 30.0,
     "playbackSpeedType": 0,
     "showBackdrop": true,
     "showBackdropImage": false,
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"9dfdd5ce-3935-4f1c-a5aa-d54b7d31c678","path":"sprites/sMenu/sMenu.yy",},},},"Disabled":false,"id":"02a635b4-209b-4a15-bff9-29528cfc0213","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"04a396ed-f7ff-4641-992a-3bd7cd10327e","path":"sprites/sMenuButton/sMenuButton.yy",},},},"Disabled":false,"id":"53937d3c-a29b-46ad-9883-9226a5300a45","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,
@@ -98,5 +73,5 @@
   },
   "type": 0,
   "VTile": false,
-  "width": 48,
+  "width": 128,
 }
